@@ -3,3 +3,5 @@
 ![github-large2](https://i.ibb.co/85kG6nk/Screenshot-3.png)
 
 Unicode batch corrupter. Works on any file extension with Hard hitting corruption for untouchable data or lightweight for quick and easy corruption of your "math homework" :)
+
+(Github.com/MaddoxK Is not responsable for any malicious use of this program.)
