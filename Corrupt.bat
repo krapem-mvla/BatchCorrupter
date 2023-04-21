@@ -201,8 +201,8 @@ pause
 
 :end
 move %file% ..
-set /a nigga=%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%
-echo Your File %file% was just fucked in the ass %nigga% different times!
+set /a final=%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%+%random%
+echo Your File %file% was just fucked in the ass %final% different times!
 timeout 1 > nul
 echo Yikes!
 timeout 3 > nul
